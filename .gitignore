@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+compile_commands.json
+.cache
+.clangd
+mbed-os
